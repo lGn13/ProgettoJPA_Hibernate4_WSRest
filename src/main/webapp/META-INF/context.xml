@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Context path="/ProgettoJPA_Hibernate3">
+<Context path="/ProgettoJPA_Hibernate4_WSRest">
 	<WatchedResource>WEB-INF/web.xml</WatchedResource>
 	<ResourceLink global="jdbc/login" name="jdbc/login"
 		type="javax.sql.DataSource">
